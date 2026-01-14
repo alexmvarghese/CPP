@@ -1,0 +1,21 @@
+v1.0
+---Made array with max 25 cells.
+---Enabled user to choose number of cells needed.
+---Displayed the number of cells in the array, which the user defined.
+v1.1
+---Enabled input into the array.
+v1.2
+---Enabled the printing of the array elements after input.
+***A 'cout' statement inside the output loop printed the string multiple times.
+v1.2.1
+===Fixed the multiple string printing problem.
+v1.2.2
+---Added comments.
+v1.3a
+---Branched off of array input.cpp.
+---Enabled selection sort mechanism.
+***Sorting failed.
+v1.3.1a
+===Fixed sorting bug, now array elements are sorted.
+v1.3b
+---Branched off of array input.cpp and added bubble sort mechanism for sorting the array.
